@@ -1,8 +1,4 @@
-# Updated GitHub Profile README with Live Projects Section
 
-Copy this content to your GitHub profile README at: https://github.com/arafatkhan/arafatkhan
-
----
 
 # Hi there! 👋 I'm Arafat Khan
 
